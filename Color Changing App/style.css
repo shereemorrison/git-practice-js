@@ -24,3 +24,16 @@
     border-style: none;
     display: block;
 }
+
+#previousButton{
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    margin: 50px auto 50px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: black;
+    border-radius: 5px;
+    border-style: none;
+    display: block;
+}
